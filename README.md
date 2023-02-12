@@ -2,7 +2,7 @@
 <h3 align="right">Version: 1.0 (Beta)</h3> 
 
 # 3uTools for MacOS
-Fully integrated with MacOS 3uTools. Based on QEMU and modified Windows Image! 
+~~Fully~~ integrated with MacOS 3uTools. Based on QEMU and modified Windows Image! 
 
 ## Requirements
 - MacOS Catalina od later
@@ -19,6 +19,11 @@ Fully integrated with MacOS 3uTools. Based on QEMU and modified Windows Image!
   - Low free disk space message on every boot 3u
   - Before run 3uTools, you must set Product ID and Vendor ID for your iPhone\iPad\iPod. This only needs to be done once unless you plan to connect another device
   - Only one device supported. No multiple connect.
+
+**NOTE:** 
+
+**The program is in a very early stage of development. The integration between MacOS and 3uTools is not perfect. I am working on reducing the size of the application and improving the launch time.**
+
 
 ## FAQ
 Q: Does it works on M1 Macs?
