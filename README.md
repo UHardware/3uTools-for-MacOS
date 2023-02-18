@@ -6,7 +6,7 @@
 
 ## Requirements
 - MacOS Catalina od later
-- Mac machine with Intel x64 CPU
+- Mac machine with **Intel x64 CPU**
 - 2GB of free space
 
 ## Usage
