@@ -12,7 +12,7 @@
 ## Usage
   1. Download PKG installer from [this link.](https://drive.google.com/file/d/1tEbicaL695wtNSwH111xLewULBWtr0oc/view)
   2. Open downloaded file (Right click -> Open)
-  3. Follow "Read me" and install 3uTools
+  3. **Follow "Read me"**, apply sudo visudo path and install 3uTools
 
 ## Product IDs
 Some apple devices may not be detected correctly without editing the configuration file. The default Product ID is **0x12a8** and works with most apple devices. However, if your device is not detected, check Product ID list below:
