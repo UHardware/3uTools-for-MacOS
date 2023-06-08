@@ -10,7 +10,7 @@
 - 2GB of free space
 
 ## Usage
-  1. Download PKG installer from [this link.](https://drive.google.com/file/d/1tEbicaL695wtNSwH111xLewULBWtr0oc/view)
+  1. Download PKG installer from [this link.](https://github.com/UHardware/3uTools-for-MacOS/releases)
   2. Open downloaded file (Right click -> Open)
   3. **Follow "Read me"**, apply sudo visudo path and install 3uTools
 
